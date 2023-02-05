@@ -1,6 +1,8 @@
 import React, { FC, ReactElement } from 'react';
 import GameContainer from './components/GameContainer';
 
+import './styles/style.scss';
+
 
 const App: FC = (): ReactElement => {
   return (
